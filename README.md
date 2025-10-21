@@ -41,9 +41,7 @@ Procesa la información, genera **gráficos y un informe PDF** con las tecnolog�
    python analisis_tech_2024.py
    ```
 
-El programa generará automáticamente los gráficos y el archivo:
-
-`Informe Stack Overflow 2024.pdf`
+El programa generará automáticamente los gráficos y el archivo: `Informe Stack Overflow 2024.pdf`
 
 ---
 
