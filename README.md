@@ -58,7 +58,7 @@ analisis-datos-tech-stackoverflow-2024-python
 
 ## Autor
 
-**Alan Aquino**, estudiante de Ingeniería en Informática.
+Alan Aquino.
 
 ---
 
