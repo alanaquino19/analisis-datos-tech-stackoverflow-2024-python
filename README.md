@@ -28,7 +28,7 @@ Procesa la información, genera **gráficos y un informe PDF** con las tecnolog�
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/alanaquino72/analisis-datos-tech-stackoverflow-2024-python.git
+   git clone https://github.com/alanaquino19/analisis-datos-tech-stackoverflow-2024-python.git
    ```
    
 2. Instala las dependencias necesarias:
